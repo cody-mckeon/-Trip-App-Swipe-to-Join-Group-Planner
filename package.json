@@ -1,0 +1,10 @@
+{
+  "name": "trip-cost-engine-spike",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "quote": "node src/run-spike.js"
+  },
+  "engines": { "node": ">=20" }
+}

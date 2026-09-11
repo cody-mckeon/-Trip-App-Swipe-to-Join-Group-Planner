@@ -1,0 +1,12 @@
+{
+  "destination": { "name": "Las Vegas", "airportCode": "LAS", "latitude": 36.1716, "longitude": -115.1391 },
+  "originAirport": "REPLACE_WITH_ORIGIN_IATA",
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-22",
+  "travelerCount": 6,
+  "occupancy": { "roomCount": 2, "adultsPerRoom": 3 },
+  "activities": [
+    { "providerActivityId": "REPLACE_WITH_AMADEUS_ACTIVITY_ID_1" },
+    { "providerActivityId": "REPLACE_WITH_AMADEUS_ACTIVITY_ID_2" }
+  ]
+}
