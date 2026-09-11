@@ -1,0 +1,1 @@
+# -Trip-App-Swipe-to-Join-Group-Planner
