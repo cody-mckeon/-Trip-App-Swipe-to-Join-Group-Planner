@@ -1,0 +1,8 @@
+{
+  "name": "trip-app-cost-engine-spike",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node --test", "check": "node --check src/*.js src/providers/*.js scripts/*.js", "spike:live": "node scripts/live-quote.js" },
+  "engines": { "node": ">=20" }
+}
